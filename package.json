@@ -1,0 +1,15 @@
+{
+  "title": "Noments",
+  "name": "noments",
+  "version": "0.0.1",
+  "description": "Remove the moments button from Twitter so you don't accidently hit it.",
+  "main": "index.js",
+  "author": "David Burns",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "Apache2",
+  "keywords": [
+    "jetpack"
+  ]
+}
