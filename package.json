@@ -1,7 +1,7 @@
 {
   "title": "Noments",
   "name": "noments",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Remove the moments button from Twitter so you don't accidently hit it.",
   "main": "index.js",
   "author": "David Burns",
@@ -10,6 +10,6 @@
   },
   "license": "Apache2",
   "keywords": [
-    "jetpack"
+    "twitter"
   ]
 }
